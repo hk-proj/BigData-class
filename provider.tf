@@ -1,0 +1,8 @@
+provider "aws" {
+    secret_key = "H/mRcdOQMgBaMbIklpplbzkXu5GkulCC0+bsvo1S"
+    access_key = "ASIA5LFF6PJ3IC6LTBKR"
+    token = "IQoJb3JpZ2luX2VjEDAaCXVzLXdlc3QtMiJHMEUCIQDEWkLRUvjx2pDXFJxBI0z9pafmZZdA+U3zDEKZ80zJewIgG1W9KB7KXhH1VpbkbprZw30eA4r4V4AKERUmNdBupQAqugIImf//////////ARAAGgw5MTczMjM1NDUyMDYiDMBDvrOsnPb2v1r8KiqOAvD+5BitOrDGBK+XOoAzX3t5PU5XbcrvEqoSKHZeEhfk+K/s299MHCfcg7qGGLFfzPxtIyHcx+40Nfmpz8Wfu0lqUDDTurmoWWQUFuksjDZMyOoi6Er5UMjlug2sb4LYZwyleRnjVROHOkNWmgntSLMej6QTi5ifaomNH9ZF8w2m1f9au0ydHQJ0dXOINGGaTzKo2ZDgpJ1Pn7DyYMb5E7PkRi+kjv9iSLdb4iYuWtKH5LdaBxbXOuWYzpCbXypuoAIkRX8QQhVEIjBp+1Xhiunib0IdH8rzDbMGGCIfDIuswZQfB9TE9xmIbTH93M7JRuuG1NeWHZdJRkEvkWRTpDDKOwIiQ9jwHdPSRUtMgzD77Y+yBjqdAblWz5md06BmDjZdGkClQ0xV+VGkfP4ojZ1Se6J16ax33wGui3lmTThAGFdLrx4BoBko4b7xWUo1lp4KwjwUKKiyeX27lCED1ZTJaXfiDWxROevP62Gc0UZN2ZzYBsJlz3O0sB1ScNX2bhsg/3Yv5aUd2PZkg6/CsX2R4iaQecFNT8ll3Dcd34sPht+Mpm1QcyQ3yqDOOa4vtf/RhIk="
+    region = "us-east-1"
+    alias = "aws"
+  
+}
